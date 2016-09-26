@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>dbyll</title>
+		<description>Stylish Jekyll Theme</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>The Journey So Far...</title>
+				<description>&lt;h1&gt;The Journey Begins!&lt;/h1&gt;
+
+&lt;p&gt;INLS 161 has &lt;strong&gt;so far&lt;/strong&gt; taught me the technicalities and specifics of many things I already had a general understanding of. I already understood concepts like &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;servers&lt;/strong&gt; (and how much I hated &lt;strong&gt;&lt;a href=&quot;http://ispokemongodownornot.com/&quot;&gt;PokemonGo&lt;/a&gt;&lt;/strong&gt;’s), &lt;strong&gt;domains&lt;/strong&gt;, &lt;strong&gt;Linux&lt;/strong&gt;, and &lt;strong&gt;CSS&lt;/strong&gt;, but now I not only understand the concept of them, but what they really are and how they work. I can use each of these things, among others, to achieve different goals and meet my needs—not only individually, but I can manipulate them to work with each other to make it even easier for me.&lt;/p&gt;
+
+&lt;p&gt;Getting to this point (not that I’m saying I’m at any particularly advanced point) has at times not been the easiest. There have been times in class that I was pretty sure I had missed the entire lesson, and that it had all gone right over my head. When I went home to practice, I was even surer of it. (&lt;strong&gt;“What did &lt;code&gt;–a&lt;/code&gt; do again? What is the dot? What is the two dot? What did I have to add to this phrase to make it stage commits? Did I just break it? I think I just broke it. How do I make a paragraph? Why are there hashtags everywhere?! THIS ISN’T TWITTER. GOD WHY ISN'T THIS WORKING! *cry*”&lt;/strong&gt;) However, throughout the struggles, I did my best to try to keep going, trying again, and asking for help from the professor, my classmates, and my friends, until I grasped whatever I was learning. Now, typing in &lt;code&gt;pwd&lt;/code&gt; or &lt;code&gt;git status&lt;/code&gt; when I’m totally lost is second nature, and my understanding of these two incredibly basic things makes me comfortable and confident enough to continue through the cluelessness (instead of crying).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.fjcdn.com/pictures/Coding_a0cfec_505861.jpg&quot; alt=&quot;Coding is hard.&quot; /&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+				<link>/2016/09/21/post-one.html</link>
+				<guid isPermaLink="true">/2016/09/21/post-one.html</guid>
+			</item>
+		
+			<item>
+				<title>Hello World!</title>
+				<description>&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is brought to you by &lt;strong&gt;&lt;a href=&quot;http://ismaildemirbilek.com&quot;&gt;dbtek&lt;/a&gt;&lt;/strong&gt;. Open sourced under &lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+
+&lt;h3 id=&quot;dbyll-is-on-github&quot;&gt;dbyll is on GitHub&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/dbtek/dbyll&quot;&gt;Grab your copy now!&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+				<link>/general/setup/demo/2013/11/15/hello-world.html</link>
+				<guid isPermaLink="true">/general/setup/demo/2013/11/15/hello-world.html</guid>
+			</item>
+		
+			<item>
+				<title>Configuration</title>
+				<description>&lt;p&gt;In your config file change these settings&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;dbyll&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;yourname&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;youremail&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;pinterest&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;linkedin&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;resume&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;bio&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Your stylish,  minimalist theme!&lt;/span&gt;  
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;email_md5&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;md5ofemail&lt;/span&gt;  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</description>
+				<pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+				<link>/general/setup/demo/2013/11/15/configuration.html</link>
+				<guid isPermaLink="true">/general/setup/demo/2013/11/15/configuration.html</guid>
+			</item>
+		
+	</channel>
+</rss>
