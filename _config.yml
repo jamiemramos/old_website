@@ -5,16 +5,16 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: Jamie
+google_analytics: Jamie
+title: Jamie
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Jamie
 
 description: Stylish Jekyll Theme
 author:
@@ -22,10 +22,11 @@ author:
   email: jmramos@live.unc.edu
   github: jamiemramos
   twitter: jamiemramos
-  pinterest: Who uses pinterest anymore?
-  linkedin: Jamie Ramos
+  facebook: jamiemarieramos@hotmail.com
+  pinterest: jamieramos75
+  linkedin: jamiemramos18@gmail.com
   bio: I'm Jamie. That is all you need to know.
-  email_md5: 726351295ec82e145928582f595aa3aa
+
 
 rss_path: feed.xml
 categories_path: categories.html
