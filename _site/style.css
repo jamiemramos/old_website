@@ -9,16 +9,20 @@ body{
     background-color: none;
     color:blue;
     height: 35px;
-    text-align:center;
+    text-align:left;
     padding-top: 15px;
     position: fixed;
 }
 #navigation a {
-    font-size:14px;
+    font-size:50px;
+    font-family: 'Cuprum', sans-serif;
+    font-weight: bold;
     padding-left:15px;
     padding-right:15px;
     color:white;
-    text-decoration:none;
+    text-shadow: 1px gray;
+    text-decoration: none;
+  
 }
 #navigation a:hover {
-    color:blue; }
+    color: black; }
